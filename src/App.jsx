@@ -171,7 +171,7 @@ class App extends React.Component {
           </a>
         </div> */}
         
-        <small>/CodesRahul</small>
+        <small><a href="https://github.com/CodesRahul">/CodesRahul</a></small>
       </div>
     );
   }
