@@ -44,7 +44,7 @@ const imgs = [
   },
 ];
 
-console.log(imgs);
+// console.log(imgs);
 
 const filters = [
   { name: "People", status: false },
